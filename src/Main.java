@@ -83,7 +83,7 @@ public class Main {
                 System.out.println("-----------------");
                 System.out.println("Задача 8.");
                 int masha = 67760;
-                int denis = 83_690;
+                int denis = 83690;
                 int kristina = 76_230;
                 System.out.println("Маша теперь получает " + (((masha * 10) / 100) + masha) + " Годовой доход вырос на " + (masha * 10) / 100);
                 System.out.println("Маша теперь получает " + (((denis * 10) / 100) + denis) + " Годовой доход вырос на " + (denis * 10) / 100);
